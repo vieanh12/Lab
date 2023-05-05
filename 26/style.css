@@ -24,20 +24,11 @@ body {
     padding: 10px 20px;
 }
 
-.image {
-    background-image: url("/26/IMG/bg.svg");
-    height: 65%;
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-}
-
 .text {
     text-align: center;
     color: white;
     font-size: 18px;
 }
-
 
 
 form {
